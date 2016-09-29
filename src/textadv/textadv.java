@@ -29,7 +29,7 @@ public class textadv {
 	    String map = null;
         float hp = 20;
 	    int gold = 0;
-	    double VERSION = 0.8;
+	    String VERSION = "0.1.8";
         System.out.println("Welcome to The Castle v" + VERSION);
         System.out.println("");
         System.out.println("");
